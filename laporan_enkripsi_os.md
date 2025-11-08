@@ -2,7 +2,7 @@
 
 **Nama** : Femas Rendi alfian Salsabila
 
-**Mata Kuliah** : Sistem Operasi
+**Mata Kuliah** : Kriptografi
 
 **Dosen** : Hemdani Rahendra Herlianto, S.Kom., M.T.I.
 
