@@ -1,10 +1,10 @@
 # Laporan Tugas: Program Enkripsi Sederhana + Integrasi Sistem Operasi
 
-**Nama** : Femas R
+**Nama** : Femas Rendi alfian Salsabila
 
 **Mata Kuliah** : Sistem Operasi
 
-**Dosen** : [Nama Dosen]
+**Dosen** : Hemdani Rahendra Herlianto, S.Kom., M.T.I.
 
 **Tanggal** : November 2025
 
@@ -12,7 +12,7 @@
 
 ## Kata Pengantar
 
-Puji syukur ke hadirat Allah SWT atas terselesaikannya tugas ini yang berjudul "Program Enkripsi Sederhana + Integrasi Sistem Operasi". Laporan ini disusun untuk memenuhi tugas pada mata kuliah Sistem Operasi. Dalam laporan ini dijelaskan latar belakang, metode implementasi, hasil pengujian, kesimpulan, dan saran terkait pengembangan aplikasi.
+Puji syukur ke hadirat Allah SWT atas terselesaikannya tugas ini yang berjudul "Program Enkripsi Sederhana + Integrasi Sistem Operasi". Laporan ini disusun untuk memenuhi tugas pada mata kuliah kriptografi. Dalam laporan ini dijelaskan latar belakang, metode implementasi, hasil pengujian, kesimpulan, dan saran terkait pengembangan aplikasi.
 
 Penulis menyadari masih banyak kekurangan pada aplikasi dan laporan ini. Oleh karena itu, kritik dan saran sangat diharapkan untuk perbaikan di masa mendatang.
 
